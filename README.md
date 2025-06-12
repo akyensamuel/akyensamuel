@@ -1,6 +1,6 @@
 ## Hi, I'm Akyen Samuel ✨
 
-🌱 I’m currently learning Django and Power Automate while exploring bot development.</br>
+🌱 I’m currently working with Django while exploring bot development.</br>
 💼 I have experience with Python, Joomla, Javascript, PHP, SQL, Django, Drupal, Moodle and CSS and have worked on management systems and accounting software projects.</br>
 🖥️ Comfortable with Git, GitHub, and various Microsoft Office editing tools.</br>
 🎮 Interested in Cyber security, automation, and backend development.</br>
