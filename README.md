@@ -4,7 +4,7 @@
 💼 I have experience with Python, Joomla, Javascript, PHP, SQL, Django, Drupal, Moodle and CSS and have worked on management systems and accounting software projects.</br>
 🖥️ Comfortable with Git, GitHub, and various Microsoft Office editing tools.</br>
 🎮 Interested in Cyber security, automation, and backend development.</br>
-📚 3rd-year Mathematics student at KNUST.
+📚 4th-year Mathematics student at KNUST.
 
 
 ## 🌐 Socials:
